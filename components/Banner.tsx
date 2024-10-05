@@ -1,5 +1,5 @@
 import Image from "next/image";
-import ProfileImg from "https://containers.moonfuzz.net/wp-content/uploads/2024/10/Farhan-Zafar-SQUAARE.png";
+import ProfileImg from "../public/img/profileImg.jpg";
 
 const Banner = () => {
   return (
