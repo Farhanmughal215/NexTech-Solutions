@@ -8,27 +8,30 @@ const Experience = () => {
     <div className="wrapper">
       <Title text="Experiences" icon={<MdWork />} />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
-        <ExperienceCard
-          title="ReactBD.com"
-          subTitle="Web Developer 2022 - Present"
-          icon={<SiReactivex />}
+<ExperienceCard
+          title="Evola Labs"
+          subTitle="WordPress Designer 2020 - Present"
+          icon={<SiFiverr />}
         />
         <ExperienceCard
-          title="Toptal"
-          subTitle="MERN Stack Developer 2021 - present"
-          icon={<SiToptal />}
-        />
-        <ExperienceCard
-          title="Freelancer"
-          subTitle="MERN Stack Developer 2020 - 2021"
-          icon={<SiFreelancer />}
-        />
+  title="Meta World"
+  subTitle="WordPress Designer 2019 - 2021"
+  icon={<img src="https://i.ibb.co/Tq0mjmSj" alt="Meta World Logo" style={{ width: 40, height: 40 }} />}
+/>
 
         <ExperienceCard
           title="Fiverr"
-          subTitle="MERN Stack Developer 2019 - 2020"
+          subTitle="Web Developer 2018 - 2023"
           icon={<SiFiverr />}
         />
+        
+        <ExperienceCard
+          title="UpWork"
+          subTitle="Website Developer 2019 - 2021"
+          icon={<SiUpwork />}
+        />
+
+        
       </div>
     </div>
   );
