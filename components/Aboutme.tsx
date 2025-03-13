@@ -9,7 +9,7 @@ const Aboutme = () => {
         <p>
           Hi, I am <strong>Farhan Z.</strong>, a passionate <strong>web developer, WordPress designer, 
           and AI/No-Code expert</strong> with years of experience in building innovative digital solutions. 
-          I specialize in <strong>creating dynamic websites, developing No-Code applications, and integrating AI tools</strong> 
+          I specialize in <strong>creating dynamic websites, developing No-Code applications, and integrating AI tools </strong> 
           to enhance business efficiency.
         </p>
         <p>
