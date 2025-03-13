@@ -1,5 +1,5 @@
 import Image from "next/image";
-import ProfileImg from "../public/img/profileImg.jpg";
+import ProfileImg from "../public/img/ifhprofileImg";
 
 const Banner = () => {
   return (
@@ -8,7 +8,7 @@ const Banner = () => {
       <div className="w-44 h-44 rounded-full bg-black">
         <Image
           className="w-full h-full rounded-full border-[1px] border-indigo-700 p-2 object-cover"
-          src={ifhprofileImg}
+          src={ProfileImg}
           alt="ProfileImg"
         />
       </div>
