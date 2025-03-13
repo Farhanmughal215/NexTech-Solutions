@@ -7,7 +7,7 @@ const Aboutme = () => {
       <Title text="About Farhan" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-          Hi, I’m <strong>Farhan Z.</strong>, a passionate <strong>web developer, WordPress designer, 
+          Hi, I am <strong>Farhan Z.</strong>, a passionate <strong>web developer, WordPress designer, 
           and AI/No-Code expert</strong> with years of experience in building innovative digital solutions. 
           I specialize in <strong>creating dynamic websites, developing No-Code applications, and integrating AI tools</strong> 
           to enhance business efficiency.
@@ -19,10 +19,10 @@ const Aboutme = () => {
         </p>
         <p>
           With a results-driven approach, I help businesses and individuals <strong>leverage technology to grow, automate 
-          processes, and maximize their online presence</strong>. Whether you're looking for a stunning website, 
-          a powerful AI-powered tool, or a strategic digital marketing plan, I’m here to bring your vision to life.
+          processes, and maximize their online presence</strong>. Whether you are looking for a stunning website, 
+          a powerful AI-powered tool, or a strategic digital marketing plan, I am here to bring your vision to life.
         </p>
-        <p>Let’s build something amazing together!</p>
+        <p>Lets build something amazing together! 🚀</p>
       </div>
     </div>
   );
