@@ -8,18 +8,18 @@ const Skills = () => {
       <Title text="Skills" icon={<GiSkills />} />
       <div className="flex gap-4 flex-wrap">
         <SkillsInput
-          title="Javascript"
+          title="Web Development"
           link="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         />
-        <SkillsInput title="Reactjs" link="https://react.dev/" />
-        <SkillsInput title="Nextjs" link="https://nextjs.org/" />
-        <SkillsInput title="Nodejs" link="https://nodejs.org/en" />
+        <SkillsInput title="WordPress Design" link="https://react.dev/" />
+        <SkillsInput title="WP Theme Customization" link="https://nextjs.org/" />
+        <SkillsInput title="WordPress Security" link="https://nodejs.org/en" />
         <SkillsInput
-          title="Typescript"
+          title="Landing Pages"
           link="https://www.typescriptlang.org/"
         />
-        <SkillsInput title="Expressjs" link="https://expressjs.com/" />
-        <SkillsInput title="Redux Toolkit" link="" />
+        <SkillsInput title="HTML5" link="https://expressjs.com/" />
+        <SkillsInput title="CSS3" link="" />
         <SkillsInput title="MongoDB" link="https://www.mongodb.com/" />
         <SkillsInput
           title="Google Firebase"
