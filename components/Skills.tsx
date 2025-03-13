@@ -20,41 +20,41 @@ const Skills = () => {
         />
         <SkillsInput title="HTML5" link="https://expressjs.com/" />
         <SkillsInput title="CSS3" link="" />
-        <SkillsInput title="MongoDB" link="https://www.mongodb.com/" />
+        <SkillsInput title="Bootstrap" link="https://www.mongodb.com/" />
         <SkillsInput
-          title="Google Firebase"
+          title="Tailwind CSS"
           link="https://firebase.google.com/"
         />
-        <SkillsInput title="Tailwindcss" link="https://tailwindcss.com/" />
-        <SkillsInput title="Sanity.io" link="https://www.sanity.io/" />
+        <SkillsInput title="JavaScript" link="https://tailwindcss.com/" />
+        <SkillsInput title="JQuery" link="https://www.sanity.io/" />
         <SkillsInput
-          title="HTML5"
+          title="React Js"
           link="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
         />
         <SkillsInput
-          title="CSS3"
+          title="PHP & MySQL"
           link="https://developer.mozilla.org/en-US/docs/Web/CSS"
         />
-        <SkillsInput title="VS Code" link="https://code.visualstudio.com/" />
+        <SkillsInput title="No-Code Development" link="https://code.visualstudio.com/" />
         <SkillsInput
-          title="Atom"
+          title="AI Integration"
           link="https://github.blog/2022-06-08-sunsetting-atom/"
         />
-        <SkillsInput title="Git" link="https://git-scm.com/" />
-        <SkillsInput title="Github" link="https://github.com/" />
-        <SkillsInput title="Trello" link="https://trello.com/en" />
-        <SkillsInput title="GitKraken" link="https://www.gitkraken.com/" />
-        <SkillsInput title="UI Design" link="https://www.figma.com/" />
-        <SkillsInput title="Figma" link="https://www.figma.com/" />
-        <SkillsInput title="Canva" link="https://www.canva.com/" />
+        <SkillsInput title="ChatBots" link="https://git-scm.com/" />
+        <SkillsInput title="AI Automation Tools" link="https://github.com/" />
+        <SkillsInput title="AI-Powered Image & Text Generation" link="https://trello.com/en" />
+        <SkillsInput title="OpenAI API Integration" link="https://www.gitkraken.com/" />
+        <SkillsInput title="AI Video & Image" link="https://www.figma.com/" />
+        <SkillsInput title="SEO Optimization" link="https://www.figma.com/" />
+        <SkillsInput title="Digital Marketing" link="https://www.canva.com/" />
         <SkillsInput
-          title="Adobe Illustrator"
+          title="Social Media Marketing"
           link="https://www.adobe.com/products/illustrator/free-trial-download.html"
         />
-        <SkillsInput title="Brand & LogoDesign" link="https://dribbble.com/" />
-        <SkillsInput title="Website Design" link="https://themeforest.net/" />
-        <SkillsInput title="Vercel" link="https://vercel.com/" />
-        <SkillsInput title="netlify" link="https://www.netlify.com/" />
+        <SkillsInput title="Google Analytics" link="https://dribbble.com/" />
+        <SkillsInput title="SEO Content Optimization" link="https://themeforest.net/" />
+        <SkillsInput title="UI/UX Design" link="https://vercel.com/" />
+        <SkillsInput title="Canva Expert" link="https://www.netlify.com/" />
       </div>
     </div>
   );
