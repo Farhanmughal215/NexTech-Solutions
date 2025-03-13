@@ -11,13 +11,13 @@ const Experience = () => {
 <ExperienceCard
   title="Evola Labs"
   subTitle="WordPress Designer 2020 - Present"
-  icon={<img src="https://evolalabs.com/wp-content/uploads/2025/03/evola-labs-Black.png" alt="Evola Labs Logo" style={{ width: 40, height: 40 }} />}
+  icon={<img src="https://evolalabs.com/wp-content/uploads/2025/03/evola-labs-Black.png" alt="Evola Labs Logo" style={{ width: 25, height: 25 }} />}
 />
 
         <ExperienceCard
   title="Meta World"
   subTitle="WordPress Designer 2019 - 2021"
-  icon={<img src="https://evolalabs.com/wp-content/uploads/2025/03/Untitled-design-2.png" alt="Meta World Logo" style={{ width: 40, height: 40 }} />}
+  icon={<img src="https://evolalabs.com/wp-content/uploads/2025/03/Untitled-design-2.png" alt="Meta World Logo" style={{ width: 25, height: 25 }} />}
 />
 
         <ExperienceCard
