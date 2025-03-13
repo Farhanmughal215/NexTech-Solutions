@@ -7,54 +7,51 @@ const Skills = () => {
     <div className="wrapper">
       <Title text="Skills" icon={<GiSkills />} />
       <div className="flex gap-4 flex-wrap">
-        <SkillsInput
-          title="Web Development"
-          link="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        />
-        <SkillsInput title="WordPress Design" link="https://react.dev/" />
-        <SkillsInput title="WP Theme Customization" link="https://nextjs.org/" />
-        <SkillsInput title="WordPress Security" link="https://nodejs.org/en" />
-        <SkillsInput
-          title="Landing Pages"
-          link="https://www.typescriptlang.org/"
-        />
-        <SkillsInput title="HTML5" link="https://expressjs.com/" />
-        <SkillsInput title="CSS3" link="" />
-        <SkillsInput title="Bootstrap" link="https://www.mongodb.com/" />
-        <SkillsInput
-          title="Tailwind CSS"
-          link="https://firebase.google.com/"
-        />
-        <SkillsInput title="JavaScript" link="https://tailwindcss.com/" />
-        <SkillsInput title="JQuery" link="https://www.sanity.io/" />
-        <SkillsInput
-          title="React Js"
-          link="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-        />
-        <SkillsInput
-          title="PHP & MySQL"
-          link="https://developer.mozilla.org/en-US/docs/Web/CSS"
-        />
-        <SkillsInput title="No-Code Development" link="https://code.visualstudio.com/" />
-        <SkillsInput
-          title="AI Integration"
-          link="https://github.blog/2022-06-08-sunsetting-atom/"
-        />
-        <SkillsInput title="ChatBots" link="https://git-scm.com/" />
-        <SkillsInput title="AI Automation Tools" link="https://github.com/" />
-        <SkillsInput title="AI-Powered Image & Text Generation" link="https://trello.com/en" />
-        <SkillsInput title="OpenAI API Integration" link="https://www.gitkraken.com/" />
-        <SkillsInput title="AI Video & Image" link="https://www.figma.com/" />
-        <SkillsInput title="SEO Optimization" link="https://www.figma.com/" />
-        <SkillsInput title="Digital Marketing" link="https://www.canva.com/" />
-        <SkillsInput
-          title="Social Media Marketing"
-          link="https://www.adobe.com/products/illustrator/free-trial-download.html"
-        />
-        <SkillsInput title="Google Analytics" link="https://dribbble.com/" />
-        <SkillsInput title="SEO Content Optimization" link="https://themeforest.net/" />
-        <SkillsInput title="UI/UX Design" link="https://vercel.com/" />
-        <SkillsInput title="Canva Expert" link="https://www.netlify.com/" />
+       <SkillsInput title="Web Development" />
+<SkillsInput title="WordPress Design" />
+<SkillsInput title="WP Theme Customization" />
+<SkillsInput title="WordPress Security" />
+<SkillsInput title="Landing Pages" />
+<SkillsInput title="HTML5" />
+<SkillsInput title="CSS3" />
+<SkillsInput title="Bootstrap" />
+<SkillsInput title="Tailwind CSS" />
+<SkillsInput title="JavaScript" />
+<SkillsInput title="JQuery" />
+<SkillsInput title="React Js" />
+<SkillsInput title="PHP & MySQL" />
+<SkillsInput title="No-Code Development" />
+<SkillsInput title="AI Integration" />
+<SkillsInput title="ChatBots" />
+<SkillsInput title="AI Automation Tools" />
+<SkillsInput title="AI Workflow Automation" />
+<SkillsInput title="OpenAI API Integration" />
+<SkillsInput title="AI Video & Image" />
+<SkillsInput title="SEO Optimization" />
+<SkillsInput title="Digital Marketing" />
+<SkillsInput title="Social Media Marketing" />
+<SkillsInput title="Email Marketing" />
+<SkillsInput title="Google Analytics" />
+<SkillsInput title="SEO Content Optimization" />
+<SkillsInput title="UI/UX Design" />
+<SkillsInput title="Canva Expert" />
+<SkillsInput title="WhitePaper Designs" />
+<SkillsInput title="Proposals Writing" />
+<SkillsInput title="Project Management" />
+<SkillsInput title="Team Leadership" />
+<SkillsInput title="Git & GitHub" />
+<SkillsInput title="Website Performance Optimization" />
+<SkillsInput title="Web Hosting & Deployment" />
+<SkillsInput title="Memecoin Website Design" />
+<SkillsInput title="Tokenomics & Community Building" />
+<SkillsInput title="How to Launch a Memecoin" />
+<SkillsInput title="Launching a Memecoin on Pump.Fun" />
+<SkillsInput title="Crypto Project Management" />
+<SkillsInput title="Crypto Marketing & Growth" />
+<SkillsInput title="Meme Coin Shilling" />
+<SkillsInput title="Telegram & Twitter Marketing" />
+<SkillsInput title="More" link="https://www.linkedin.com/in/farhanzafartech/" />
+        
       </div>
     </div>
   );
