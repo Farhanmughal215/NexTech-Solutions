@@ -1,6 +1,6 @@
 import Title from "./Title";
 import { MdWork } from "react-icons/md";
-import { SiReactivex, SiToptal, SiFreelancer, SiFiverr } from "react-icons/si";
+import { SiReactivex, SiToptal, SiFreelancer, SiFiverr, SiUpwork } from "react-icons/si";
 import ExperienceCard from "./ExperienceCard";
 
 const Experience = () => {
@@ -9,10 +9,11 @@ const Experience = () => {
       <Title text="Experiences" icon={<MdWork />} />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
 <ExperienceCard
-          title="Evola Labs"
-          subTitle="WordPress Designer 2020 - Present"
-          icon={<SiFiverr />}
-        />
+  title="Evola Labs"
+  subTitle="WordPress Designer 2020 - Present"
+  icon={<img src="https://i.ibb.co/DHMTp7x8" alt="Evola Labs Logo" style={{ width: 40, height: 40 }} />}
+/>
+
         <ExperienceCard
   title="Meta World"
   subTitle="WordPress Designer 2019 - 2021"
