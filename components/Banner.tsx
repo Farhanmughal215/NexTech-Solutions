@@ -1,5 +1,5 @@
 import Image from "next/image";
-import ProfileImg from "../public/img/ifhprofileImg";
+import ProfileImg from "../public/img/ifhprofileImg.jpg";
 
 const Banner = () => {
   return (
