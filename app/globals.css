@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+
 @layer components {
   .wrapper {
     @apply border-b-[1px] border-b-slate-700 py-20;
