@@ -1,7 +1,4 @@
 import "./globals.css";
-import { Montserrat } from "next/font/google";
-
-const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Farhan Z. | Design. Develop. Deliver.",
@@ -16,6 +13,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Google Fonts */}
+        <link
+          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap"
+          rel="stylesheet"
+        />
+
         {/* Google Analytics */}
         <script
           async
@@ -32,7 +35,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className={montserrat.className}>{children}</body>
+      <body>{children}</body>
     </html>
   );
 }
