@@ -6,7 +6,7 @@ const Banner = () => {
       {/* Image */}
       <div className="w-44 h-44 rounded-full bg-black">
         <Image
-          src="/img/farhanzafarimg.png" // ✅ Correct public path
+          src="/img/farhanzafarimg.png" 
           alt="ProfileImg"
           width={176} // Required when using public path
           height={176}
