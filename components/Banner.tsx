@@ -6,12 +6,12 @@ const Banner = () => {
       {/* Image */}
       <div className="w-44 h-44 rounded-full bg-black">
         <Image
-          src="/img/farhanzafarimg.png" 
-          alt="ProfileImg"
-          width={176} // Required when using public path
-          height={176}
-          className="w-full h-full rounded-full border-[1px] border-indigo-700 p-2 object-cover"
-        />
+  src="https://via.placeholder.com/176"
+  alt="Test Image"
+  width={176}
+  height={176}
+/>
+
       </div>
 
       {/* Description */}
